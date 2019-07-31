@@ -1,7 +1,8 @@
 # Título  do projeto
  Contador de  peças com sensor indutivo
  #   Descrição  
- O sensor indutivo é capaz de detectar o aproximamento de peças metalicas  e através de um display que será ligado ao arduino conseguiremos contagem dessa peças
+ O Sensor Indutivo é capaz de detectar a proximidade de objetos metálicos e através de um  display  ligado ao um arduino será possivel realizar a contagem das peças.
+ 
 # Pré-requisitos
 Para realização desse projeto será nescessario a instalação  da IDE do arduino  no site  www.arduino.cc 
 # Créditos
