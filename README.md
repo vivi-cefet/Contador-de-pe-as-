@@ -14,5 +14,5 @@ http://blog.baudaeletronica.com.br/sensor-indutivo-e-arduino-como-construir-um-c
 1 Unidade – Protoboard 830 pontos;
 1 Unidade – Resistor de 1KΩ;
 1 Unidade – Jumper Macho – Macho;
-1 Unidade – Potenciômetro 10k.
+1 Unidade - Potenciômetro 10k.
 # Código está em anexo 
