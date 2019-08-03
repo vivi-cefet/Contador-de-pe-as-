@@ -1,4 +1,4 @@
-##  Contador com sensor indutivo
+##  Contador de peças com sensor Indutivo :
 # ![contador de peças](https://github.com/vivi-cefet/Contador-de-pe-as-/blob/master/Gif-Noticias.gif)
  #   Descrição  
  O Sensor Indutivo é capaz de detectar a proximidade de objetos metálicos e através de um  display  ligado ao um arduino será possivel realizar a contagem das peças.
