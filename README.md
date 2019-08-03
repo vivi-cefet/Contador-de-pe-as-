@@ -15,6 +15,4 @@ http://blog.baudaeletronica.com.br/sensor-indutivo-e-arduino-como-construir-um-c
 1 Unidade – Resistor de 1KΩ;
 1 Unidade – Jumper Macho – Macho;
 1 Unidade - Potenciômetro 10k.
-# Diagrama de montagem
-<p><img src="jpg" alt="IMG-2-1.jpg" width="300" height="300" /></p>
 # Código está em anexo 
