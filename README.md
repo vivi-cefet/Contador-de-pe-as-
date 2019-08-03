@@ -15,4 +15,4 @@ Para realização desse projeto será nescessario a instalação  da IDE do ardu
 ![monatagem contador de peças](https://github.com/vivi-cefet/Contador-de-pe-as-/blob/master/IMG-2-1.jpg)
 # Crétidos 
 http://blog.baudaeletronica.com.br/sensor-indutivo-e-arduino-como-construir-um-contador-de-pecas/
-Apaptado por Vívia Natália Figueiredo da Silva
+Apaptado por Vívia Natália Figueiredo da Silva.
