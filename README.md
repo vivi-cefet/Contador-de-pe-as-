@@ -1,4 +1,4 @@
-##Contador de peças com sensor indutivo 
+##  Contador com sensor indutivo
 # ![contador de peças](https://github.com/vivi-cefet/Contador-de-pe-as-/blob/master/Gif-Noticias.gif)
  #   Descrição  
  O Sensor Indutivo é capaz de detectar a proximidade de objetos metálicos e através de um  display  ligado ao um arduino será possivel realizar a contagem das peças.
@@ -13,6 +13,6 @@ Para realização desse projeto será nescessario a instalação  da IDE do ardu
 1 Unidade – Resistor de 1KΩ;
 1 Unidade – Jumper Macho – Macho;
 ![monatagem contador de peças](https://github.com/vivi-cefet/Contador-de-pe-as-/blob/master/IMG-2-1.jpg)
-#Créditos
+# Crétidos 
 http://blog.baudaeletronica.com.br/sensor-indutivo-e-arduino-como-construir-um-contador-de-pecas/
 Apaptado por Vívia Natália Figueiredo da Silva
