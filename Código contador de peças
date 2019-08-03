@@ -1,0 +1,44 @@
+//Projeto: Contador de Peças Utilizando Sensor Indutivo e Arduino
+  
+#include <LiquidCrystal.h>
+ 
+ 
+LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
+ 
+int sinal=7;
+int sensor;
+int i = 0;
+int conta=0;
+ 
+void setup() {
+ 
+lcd.begin(16, 2);
+pinMode (sinal,INPUT);
+ 
+ 
+}
+ 
+void loop() {
+  
+lcd.setCursor(0,0);
+lcd.print("CONTADOR");
+lcd.setCursor(0, 1);
+lcd.print("PECA:");
+lcd.setCursor(6, 1);
+lcd.print(i);
+ 
+sensor = digitalRead(sinal);  
+ 
+while (sensor == HIGH)
+{
+sensor = digitalRead(sinal); 
+}
+ 
+ 
+while (sensor == LOW)
+{
+sensor = digitalRead(sinal); 
+}
+ 
+i++;
+}
