@@ -14,6 +14,5 @@ http://blog.baudaeletronica.com.br/sensor-indutivo-e-arduino-como-construir-um-c
 1 Unidade – Protoboard 830 pontos;
 1 Unidade – Resistor de 1KΩ;
 1 Unidade – Jumper Macho – Macho;
-1 Unidade - Potenciômetro 10k.
-https://github.com/vivi-cefet/Contador-de-pe-as-/blob/master/IMG-2-1.jpg
+![monatagem contador de peças](https://github.com/vivi-cefet/Contador-de-pe-as-/blob/master/IMG-2-1.jpg)
 # Código está em anexo
